@@ -1,2 +1,20 @@
-.projects
-.setting/
+.# compiled class file
+*.class
+
+# package Files #
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+
+# eclipse
+.classpath
+.project
+.settings/
+build/
+
+# OS Files
+Thumbs.db
+.DB_Store
